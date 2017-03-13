@@ -1,0 +1,13 @@
+1.- Pruebas Unitarias
+2.- Manejo de Archivos Log
+3.- Patrón Inyección de Dependencias
+4.- Manejo de documentos XML	 
+5.- Manejo de Datos en Formato JSON
+6.- Patrones Factory
+7.- Principios SOLID
+8.- Patrón MVC
+9.- JQuery
+10.- Angular2
+11.- Servicios REST
+12.- Websockets
+13.- ReactJS
