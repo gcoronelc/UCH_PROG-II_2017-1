@@ -1,13 +1,36 @@
 1.- Pruebas Unitarias
-2.- Manejo de Archivos Log
+
+
+2.- Manejo de Logs
+    Manriquez
+
 3.- Patrón Inyección de Dependencias
+    
+
 4.- Manejo de documentos XML	 
+    Carrion y Mamani
+
 5.- Manejo de Datos en Formato JSON
+
+
 6.- Patrones Factory
+
+
 7.- Principios SOLID
+
+
 8.- Patrón MVC
+    Justo Lopez
+
 9.- JQuery
+    Bardales y Rivera
+
 10.- Angular2
+
+
 11.- Servicios REST
+
 12.- Websockets
+     Cortes y Aguilar
+
 13.- ReactJS
