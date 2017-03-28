@@ -1,8 +1,8 @@
 1.- Pruebas Unitarias
-
+    Abad, Eche y Mercedes
 
 2.- Manejo de Logs
-    Manriquez
+    Manriquez, Fernandez y Cespedes
 
 3.- Patrón Inyección de Dependencias
     
@@ -17,10 +17,11 @@
 
 
 7.- Principios SOLID
+    Vega Bazan, Cruz y Fuertes
 
 
 8.- Patrón MVC
-    Justo Lopez
+    Justo Lopez, Alaban Ortiz, Obispo Mego
 
 9.- JQuery
     Bardales y Rivera
@@ -29,9 +30,10 @@
 
 
 11.- Servicios REST
+     Zegarra, Olano y Soto
 
 12.- Websockets
-     Cortes y Aguilar
+     Herrera, Cortes y Aguilar
 
 13.- ReactJS
      Espinoza 
