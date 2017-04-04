@@ -21,7 +21,7 @@
 
 
 8.- Patrón MVC
-    Justo Lopez, Alaban Ortiz, Obispo Mego
+    Alaban Ortiz, Obispo Mego
 
 9.- JQuery
     Bardales y Rivera
@@ -33,7 +33,7 @@
      Zegarra, Olano y Soto
 
 12.- Websockets
-     Herrera, Cortes y Aguilar
+     Herrera, Cortes, Aguilar y Paico.
 
 13.- ReactJS
-     Espinoza 
+     Espinoza y Canaval
