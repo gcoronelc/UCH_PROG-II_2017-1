@@ -1,0 +1,11 @@
+PROYECTO
+========
+
+Desarrollar un programa para generar
+el cronograma de pagos de un prestamo
+bancario.
+
+
+
+
+
