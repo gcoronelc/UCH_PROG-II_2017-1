@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DEMO</title>
+        <script src="jquery-3.2.1.min.js"></script>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>DEMO</h1>
+        <div>
+            <button id="btnTraer">Traer Datos</button>
+        </div>
+        <div>
+            <ol id="lista"></ol>
+        </div>
+        <script>
+            
+            $("#btnTraer").click(procesar);
+            
+            function procesar(){
+                $.get("datos.php",function( datos ){
+                    $('#lista').append($('<li>').append(datos.aa));
+                    $('#lista').append($('<li>').append(datos.bb));
+                    $('#lista').append($('<li>').append(datos.cc));
+                    $('#lista').append($('<li>').append(datos.dd));
+                    $('#lista').append($('<li>').append(datos.ee));
+                });
+            }
+            
+        </script>
+    </body>
+</html>
