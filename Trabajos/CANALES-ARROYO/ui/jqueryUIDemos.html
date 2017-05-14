@@ -1,0 +1,171 @@
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="jqueryUI.css">
+  <title>jQuery UI Accordion - Default functionality</title>
+ 
+  <link rel="stylesheet" href="jqueryUI/jquery-ui.min.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="jqueryUI.js"></script>
+</head>
+<body>
+ <div id="mauro">
+ <ul id="menu">
+  <li class="ui-state-disabled"><div>Toys (n/a)</div></li>
+  <li><div>Books</div></li>
+  <li><div>Clothing</div></li>
+  <li><div>Electronics</div>
+    <ul>
+      <li class="ui-state-disabled"><div>Home Entertainment</div></li>
+      <li><div>Car Hifi</div></li>
+      <li><div>Utilities</div></li>
+    </ul>
+  </li>
+  <li><div>Movies</div></li>
+  <li><div>Music</div>
+    <ul>
+      <li><div>Rock</div>
+        <ul>
+          <li><div>Alternative</div></li>
+          <li><div>Classic</div></li>
+        </ul>
+      </li>
+      <li><div>Jazz</div>
+        <ul>
+          <li><div>Freejazz</div></li>
+          <li><div>Big Band</div></li>
+          <li><div>Modern</div></li>
+        </ul>
+      </li>
+      <li><div>Pop</div></li>
+    </ul>
+  </li>
+  <li class="ui-state-disabled"><div>Specials (n/a)</div></li>
+</ul>
+
+</div><br>
+
+<div id="accordion">
+  <h3>Seccion 1</h3>
+  <div id="d">
+    <p>
+     Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+      Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+       Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 
+    </p>
+  </div>
+  <h3>Seccion 2</h3>
+  <div id="d">
+    <p>
+     Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+      Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+       Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+        Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+         Contenido 2 Contenido 2 Contenido 2
+    </p>
+  </div>
+  <h3>Seccion 3</h3>
+  <div id="d">
+    <p>
+     Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3
+      Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3
+       Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3
+        Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3 Contenido 3
+    </p>
+    <ul>
+      <li>List item one</li>
+      <li>List item two</li>
+      <li>List item three</li>
+    </ul>
+  </div>
+  <h3>Seccion 4</h3>
+  <div id="d">
+    <p>
+     Contenido 4  Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4
+      Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4
+       Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4
+        Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4
+         Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4 Contenido 4
+          Contenido 4
+    </p>
+  </div>
+</div>
+<div class="widget">
+  <h1>EJEMPLO DE BOTONES</h1>
+  <button id="boton1">ESTE ES UN BUTTON</button><br><br>
+ 
+  <input type="submit" value="ESTE ES UN INPUT"><br><br>
+ 
+  <a href="#">ESTE ES UN ENLACE</a>
+</div><br>
+<div id="tabs">
+  <ul>
+    <li ><a href="#tabs-1">Opcion 1</a></li>
+    <li><a href="#tabs-2">Opcion 2</a></li>
+    <li><a href="#tabs-3">Opcion 3</a></li>
+  </ul>
+  <div id="tabs-1">
+    <p>Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+      Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+       Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1  Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+      Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1
+       Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 Contenido 1 </p>
+  </div>
+  <div id="tabs-2">
+    <p>Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+      Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+       Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+        Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2 Contenido 2
+         Contenido 2 Contenido 2 Contenido 2</p>
+  </div>
+  <div id="tabs-3">
+    <p> contenido 3  contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3
+     contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3
+      contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3
+       contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3 contenido 3</p>
+  </div>
+</div>
+<div id="dialog" title="Mensaje">
+  <p>Este es un mensaje creado por JqueryUI</p>
+</div><br>
+
+
+<div id="fondo" style="width: 1200px; height: 1500px;">
+	
+<div id="draggable" class="ui-widget-content">
+  <p>ARRASTRAR !!!	</p>
+</div><br>
+<div id="resizable" class="ui-widget-content">
+  <h4 class="ui-widget-header">Agrandar o dimsminuir</h4>
+</div><br><br>
+<ol id="selectable">
+  <li class="ui-widget-content">Item 1</li>
+  <li class="ui-widget-content">Item 2</li>
+  <li class="ui-widget-content">Item 3</li>
+  <li class="ui-widget-content">Item 4</li>
+  <li class="ui-widget-content">Item 5</li>
+  <li class="ui-widget-content">Item 6</li>
+  <li class="ui-widget-content">Item 7</li>
+</ol><br>
+<ul id="sortable">
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 1</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 2</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 3</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 4</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 5</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 6</li>
+  <li class="ui-state-default"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span>Item 7</li>
+</ul>
+</div><br><br><br>
+<p>Escoge una fecha <input type="text" id="datepicker"></p>
+
+ 
+</body>
+</html>
+

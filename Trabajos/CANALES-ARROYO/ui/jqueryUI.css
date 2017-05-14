@@ -1,0 +1,60 @@
+body{
+	background-color:#efe4e4;
+}
+div{
+	width: 270px;
+}
+h3{
+	width: 352px;
+}
+
+#accordion{
+	margin-left: 450px;
+}
+.widget{
+	margin-left: 500px;
+}
+#tabs{
+	width: 405px;
+	margin-left: 440px;
+}
+#tabs div{
+	width: 370px;
+	
+}
+#d{
+	width: 301px;
+}
+p{
+	text-align: justify;
+}
+
+ul{
+	width: 305px;
+	margin-left: 400px;
+}
+#mauro{
+	margin-left: 480px;
+}
+#draggable {
+ width: 150px; 
+ height: 150px; 
+ padding: 0.5em; 
+}
+#fondo{
+	background-color: #d5cccc;
+	margin-left: 65px;
+}
+  #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h4 { text-align: center; margin: 0; }
+
+    #feedback { font-size: 1.4em; }
+  #selectable .ui-selecting { background: #FECA40; }
+  #selectable .ui-selected { background: #F39814; color: white; }
+  #selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; margin-left:200px;  }
+  #selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+
+  #sortable { list-style-type: none; margin: 0; padding: 0; width: 60%;margin-left: 200px; }
+  #sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+  #sortable li span { position: absolute; margin-left: -1.3em; }
