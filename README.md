@@ -38,7 +38,9 @@
 - Slideshare: https://www.slideshare.net/soreygarcia
 
 
+![PROGRAMACIÓN II](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-II_2017-1/master/Fotos/IMG_20170522_205411414.jpg)
 
+![PROGRAMACIÓN II](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-II_2017-1/master/Fotos/IMG_20170522_205406721.jpg)
 
 
 
