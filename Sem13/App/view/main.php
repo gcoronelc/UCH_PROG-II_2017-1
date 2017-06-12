@@ -1,3 +1,12 @@
+<?php
+
+
+if( ! isset($_SESSION["usuario"]) ){
+    echo "no hay session.";
+    die();
+}
+
+?>
 <?php include '../menu/variables.php' ?>
 
 <!DOCTYPE html>
