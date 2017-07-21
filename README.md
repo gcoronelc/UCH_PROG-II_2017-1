@@ -43,4 +43,6 @@
 ![PROGRAMACIÓN II](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-II_2017-1/master/Fotos/IMG_20170522_205406721.jpg)
 
 
+![PROGRAMACIÓN II](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-II_2017-1/master/Fotos/A1.jpg)
 
+![PROGRAMACIÓN II](https://raw.githubusercontent.com/gcoronelc/UCH_PROG-II_2017-1/master/Fotos/A2.jpg)
